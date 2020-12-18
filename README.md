@@ -1,3 +1,3 @@
 # Parametric-Bootstrap
 
-parametric_bootstrap contains the full code. 
+parametric_bootstrap.R contains the full code. 
